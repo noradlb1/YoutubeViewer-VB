@@ -1,0 +1,6 @@
+C:\Users\MONSTERMC\Downloads\YoutubeViewer-main (1)\YoutubeViewer-main\YoutubeViewer\obj\Debug\YoutubeViewer.frmVideos.resources
+C:\Users\MONSTERMC\Downloads\YoutubeViewer-main (1)\YoutubeViewer-main\YoutubeViewer\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Downloads\YoutubeViewer-main (1)\YoutubeViewer-main\YoutubeViewer\obj\Debug\YoutubeViewer.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\YoutubeViewer-main (1)\YoutubeViewer-main\YoutubeViewer\obj\Debug\YoutubeViewer.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\YoutubeViewer-main (1)\YoutubeViewer-main\YoutubeViewer\obj\Debug\YoutubeViewer.exe
+C:\Users\MONSTERMC\Downloads\YoutubeViewer-main (1)\YoutubeViewer-main\YoutubeViewer\obj\Debug\YoutubeViewer.pdb
